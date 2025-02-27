@@ -21,7 +21,7 @@ NOTE: Some of these are relevant to Windows and may be different for macOS/Linux
 
 7. Finally, follow the images below to begin running the tests in Cypress:
 
-![Screenshot 2025-02-27 121622](https://github.com/user-attachments/assets/1a751d32-6cb0-4d30-8ec7-3ab5eb585649)
+![Screenshot 2025-02-27 121622](https://github.com/user-attachments/assets/1b388eb6-b4a8-475c-8589-c00984fc0906)
 fig. 1
-![Screenshot 2025-02-27 121726](https://github.com/user-attachments/assets/b082feda-fb7c-4b67-9db1-8d17b4b4a295)
+![Screenshot 2025-02-27 121726](https://github.com/user-attachments/assets/52c76597-7e01-4717-abb6-e3ad0ff9eb0e)
 fig. 2
